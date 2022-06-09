@@ -10,3 +10,13 @@ If you have some background in machine learning and you'd like to learn how to q
 * avoid common and important data science mistakes (leakage).
 
 Along the way, you'll apply your knowledge by completing a hands-on exercise with real-world data for each new topic. The hands-on exercises use data from the Housing Prices Competition for Kaggle Learn Users, where you'll use 79 different explanatory variables (such as the type of roof, number of bedrooms, and number of bathrooms) to predict home prices. You'll measure your progress by submitting predictions to this competition and watching your position rise on the leaderboard!
+
+## Certificates
+<p align="center">
+  <img src="https://github.com/nicoambrosis/Housing-Prices-Competition-for-Kaggle-Learn-Users/blob/main/nico%20ambrosis%20-%20Intro%20to%20Machine%20Learning.png"
+       width="45%"/>
+  <img src="https://github.com/nicoambrosis/Housing-Prices-Competition-for-Kaggle-Learn-Users/blob/main/nico%20ambrosis%20-%20Intermediate%20Machine%20Learning.png"
+       width="45%"/>
+</p>
+
+---
